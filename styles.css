@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-brand {
+  text-transform: uppercase;
+}
+
+.earth {
+  width: 400px;
+  height: auto;
+}
+
+#forcast-icon {
+  width: 500px;
+}
+
+#current-icon {
+  width: 500px;
+}
